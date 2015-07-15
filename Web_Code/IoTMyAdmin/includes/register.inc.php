@@ -91,7 +91,6 @@ if (isset($_POST['username'], $_POST['email'], $_POST['p'])) {
         $txt = "Welcome to the system!! \r\n\r\nUsername: ".$_POST['username']."\r\n\r\n";
         $headers = "From: no_replay@".$_SERVER[HTTP_HOST]."\r\n";
         mail($to,$subject,$txt,$headers);
-        */
         
         $conn->close();
         header('Location: register_success.php');
