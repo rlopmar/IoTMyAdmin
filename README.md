@@ -7,7 +7,7 @@ HTTP request. The code for data upload is in the web and it's automatically gene
 Furthermore, IoT MyAdmin have some tools to represent the uploaded data using different type of charts or maps.
 
 This web app have also some tutorial pages to show you with details how it works. Three Arduino project are also included.
-Two of them upload data to the web, one using a WiFi shield and the other one using a Adafruit FONA GSM/GPRS module.
+Two of them upload data to the web, one using a WiFi shield and the other one using an Adafruit FONA GSM/GPRS module.
 
 The responsive design allows an easy and friendly navigation using different devices, including computers, mobile phones, tablets, etc.
 
