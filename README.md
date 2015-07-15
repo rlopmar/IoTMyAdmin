@@ -81,7 +81,7 @@ For more details, follow the tutorials in the web.<br>
 
 ## Credits
 
-Writted by Rafael López Martínez in 2015
+Written by Rafael López Martínez in 2015
 
 Libraries, frameworks and other tools used:
 <ul>
